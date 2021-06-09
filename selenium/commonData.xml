@@ -1,0 +1,6 @@
+<main>
+	<username>admin</username>
+	<password>admin</password>
+	<browser>chrome</browser>
+	<url>http://localhost:8084</url>
+</main>
